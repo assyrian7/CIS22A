@@ -1,0 +1,9 @@
+Pseudocode:
+Ask the user for running retail price
+Read retailPrice
+Ask the user for sales tax rate
+Read taxRate
+Assign to totalSale, retailPrice * taxRate
+Display taxRate and then totalSale
+End
+
